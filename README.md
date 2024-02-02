@@ -1,4 +1,9 @@
-<h1>EasyCA Template Installation Guide</h1>
+<h1>EasyCA-Template</h1>
+<h3><i>This template is a highly streamlined version inspired by Jason Taylor's Clean Architecture Template . The aim is to provide you with a foundational template that can be easily expanded based on your specific needs, allowing your project to scale seamlessly with your requirements.</i></h3>
+
+<h5>Jason Taylor's CA Template: https://github.com/jasontaylordev/CleanArchitecture </h5>
+
+<h1>Installation Guide</h1>
 
 <h3>1. Clone the project with the version you intend to use</h3>
 
