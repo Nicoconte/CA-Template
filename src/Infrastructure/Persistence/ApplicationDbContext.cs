@@ -1,5 +1,6 @@
 ﻿using Application.Common.Interfaces;
 using Domain.Entities;
+using Infrastructure.Persistence.DefaultData;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
@@ -16,6 +17,8 @@ namespace Infrastructure.Persistence
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 
             base.OnModelCreating(modelBuilder);
+
+            TodoDataSeeder.Seed(modelBuilder);
         }
     }
 }
