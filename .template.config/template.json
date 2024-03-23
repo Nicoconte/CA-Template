@@ -2,8 +2,8 @@
   "$schema": "http://json.schemastore.org/template",
   "author": "Nicolas Conte",
   "classifications": ["Web", "API"],
-  "name": "catemplate",
-  "identity": "catemplate",
+  "name": "ca-template",
+  "identity": "ca-template",
   "shortName": "cat",
   "tags": {
     "language": "C#",
