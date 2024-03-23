@@ -15,8 +15,7 @@
     {
       "modifiers": [
         {
-          "condition": "preferNameDirectory",
-          "exclude": ["bin", "obj"]
+          "exclude": ["bin", "obj", ".git/**", ".vs/**", ".vscode/**"]
         }
       ]
     }
