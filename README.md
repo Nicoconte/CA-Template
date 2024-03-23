@@ -1,4 +1,4 @@
-<h1>EasyCA-Template</h1>
+<h1>CA-Template</h1>
 <h3><i>This template is a highly streamlined version inspired by Jason Taylor's Clean Architecture Template . The aim is to provide you with a foundational template that can be easily expanded based on your specific needs, allowing your project to scale seamlessly with your requirements.</i></h3>
 
 <h5>Jason Taylor's CA Template: https://github.com/jasontaylordev/CleanArchitecture </h5>
@@ -10,7 +10,7 @@
 <h5>Replace `net-8.0` with the desired version.</h5>
 
 ```bash
-git clone --branch net-8.0 https://github.com/Nicoconte/EasyCA-Template
+git clone --branch net-8.0 https://github.com/Nicoconte/CA-Template
 ```
 
 <h3>2. Navigate to the Cloned Folder and Install the Template</h3>
@@ -26,7 +26,7 @@ dotnet new install .
 <h5>Use the following command to create a new project, replacing YourProjectName with the desired name:</h5>
 
 ```
-dotnet new eca -n YourProjectName
+dotnet new cat -n YourProjectName
 ```
 
 <h4>Note: The project is created with a default SQLite database and includes some example "use cases," entities, and DTOs.</h4>

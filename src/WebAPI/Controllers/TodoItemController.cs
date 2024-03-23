@@ -1,8 +1,8 @@
-﻿using Application.UseCases.V1.TodoItemOperation.Commands;
+﻿using Application.UseCases.V1.TodoItemOperation;
+using Application.UseCases.V1.TodoItemOperation.Commands;
 using Application.UseCases.V1.TodoItemOperation.Queries;
-using Domain.Dtos;
 using Microsoft.AspNetCore.Mvc;
-using WebAPI.Extensions;
+using WebAPI.Abstractions;
 
 namespace WebAPI.Controllers
 {
