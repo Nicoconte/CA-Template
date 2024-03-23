@@ -2,15 +2,15 @@
   "$schema": "http://json.schemastore.org/template",
   "author": "Nicolas Conte",
   "classifications": ["Web", "API"],
-  "name": "easy-cleanarchitecture",
-  "identity": "easy-cleanarchitecture",
-  "shortName": "eca",
+  "name": "catemplate",
+  "identity": "catemplate",
+  "shortName": "cat",
   "tags": {
     "language": "C#",
     "type": "project"
   },
   "preferNameDirectory": true,
-  "sourceName": "EasyCA.Template",
+  "sourceName": "CA.Template",
   "sources": [
     {
       "modifiers": [
