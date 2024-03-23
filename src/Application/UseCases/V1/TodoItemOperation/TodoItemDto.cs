@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Dtos
+namespace Application.UseCases.V1.TodoItemOperation
 {
     public class TodoItemDto
     {
