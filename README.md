@@ -26,7 +26,7 @@ dotnet new install .
 <h5>Use the following command to create a new project, replacing YourProjectName with the desired name:</h5>
 
 ```
-dotnet new eca -n YourProjectName
+dotnet new cat -n YourProjectName
 ```
 
 <h4>Note: The project is created with a default SQLite database and includes some example "use cases," entities, and DTOs.</h4>
